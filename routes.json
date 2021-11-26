@@ -1,0 +1,10 @@
+{
+  "/users/register": "/register",
+  "/users/login": "/login",
+  "/users/sendRecoveryCode": "/sendRecoveryCode",
+  "/users/recover": "/recover",
+  "/users/:UserId": "/users?UserId=:UserId",
+  "/users/getFlow": "/users/notifications",
+  "/users/getFlowOfType?userId=:UserId&notificationType=:NotificationType": "/users/notifications?notificationType=:NotificationType",
+  "/chama/:ChamaId": "/chama?ChamaId=:ChamaId"
+}

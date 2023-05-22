@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "json:server": "node server.js"
+    "json:server": "node ."
   },
   "keywords": [],
   "author": "Eric Njuki",
